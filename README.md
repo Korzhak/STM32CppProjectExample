@@ -57,7 +57,7 @@ void loop();
 #include "main.h"
 
 void setup() {
-	// YOUR SETUP CODE
+    // YOUR SETUP CODE
 }
 
 void loop() {
@@ -82,16 +82,16 @@ int main(void)
 {
     // ... 
     /* USER CODE BEGIN 2 */
-	setup();
+    setup();
     /* USER CODE END 2 */
     
     /* Infinite loop */
     /* USER CODE BEGIN WHILE */
 	while (1) {
-		loop();
-        /* USER CODE END WHILE */
+            loop();
+            /* USER CODE END WHILE */
 
-        /* USER CODE BEGIN 3 */
+            /* USER CODE BEGIN 3 */
 	}
   /* USER CODE END 3 */
 }
@@ -142,7 +142,7 @@ classExample::~classExample() {
 classExample objectExample;
 
 void setup() {
-	// YOUR SETUP CODE
+    // YOUR SETUP CODE
 }
 
 void loop() {
